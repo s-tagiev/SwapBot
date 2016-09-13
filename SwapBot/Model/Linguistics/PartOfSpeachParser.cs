@@ -40,23 +40,3 @@ namespace SwapBot.Model.Linguistics
         };
     }
 }
-
-//CD
-//numeral, cardinal
-//nine 20 1980 '96
-//DT
-//determiner
-//a the an all both neither
-//EX
-//existential there
-//there
-//FW
-//foreign word
-//enfant terrible hoi polloi je ne sais quoi
-//LS
-//list item marker
-//(a) (b) 1 2 A B A.B.
-//MD
-//modal auxiliary
-//can may shall will could might should ought
-//TO  "to" as preposition or infinitive marker    to
